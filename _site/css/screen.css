@@ -3,6 +3,8 @@
 /* Non highlighted code colors */
 /* non highlighted code colors */
 /* line 6, ../_sass/partials/_syntax.scss */
+@import url('https://fonts.googleapis.com/css2?family=B612&display=swap');
+
 .highlight, html .gist .gist-file .gist-syntax .gist-highlight {
   border: 1px solid #05232b !important;
 }
@@ -604,7 +606,7 @@ blockquote {
 body {
   background-color: #FFFFFF;
   color: #000;
-  font-family: "Adobe Garamond W08", "adobe-garamond-pro", "AGaramondPro-Regular", "Times New Roman", "Times", "serif";
+  font-family: "B612", "Adobe Garamond W08", "adobe-garamond-pro", "AGaramondPro-Regular", "Times New Roman", "Times", "serif";
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
   background-image: url(/images/gradient.png);
